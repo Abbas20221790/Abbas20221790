@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aliyu Abbas Ahmad 👋
 
-<!--
-**Abbas20221790/Abbas20221790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer and final-year Software Engineering student at Nile University of Nigeria.
 
-Here are some ideas to get you started:
+## About me
+- Currently building **HelpU** — a secure digital counseling platform for university students
+- Skills: HTML · CSS · JavaScript · React · Node.js · TypeScript · Supabase
+- Based in Abuja, Nigeria
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/abbas-aliyu-80a17240b)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| HelpU | Digital counseling chat platform for NUN students | React, Supabase, Node.js, TypeScript |
+docs: add profile README
