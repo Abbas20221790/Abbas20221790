@@ -12,4 +12,5 @@ Frontend developer and final-year Software Engineering student at Nile Universit
 | Project | Description | Tech |
 |---------|-------------|------|
 | HelpU | Digital counseling chat platform for NUN students | React, Supabase, Node.js, TypeScript |
+
 docs: add profile README
